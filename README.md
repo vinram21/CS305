@@ -12,6 +12,6 @@ A lot of the issues that were not possible to fix were ones due to parsing YAML 
 
 Before making changes, I ran the dependency check and checked the issues. Then, after making changes, I reran the dependency check and made sure that no new issues were raised.
 
-THe use of OWASP dependency scanner was very handy for determining potential problems, and the ability to use a supression file avoids having to check the same problem again after the problem has been fixed. 
+The use of OWASP dependency scanner was very handy for determining potential problems, and the ability to use a supression file avoids having to check the same problem again after the problem has been fixed. 
 
 I would show potential employers the list of problems before and after the fixes, so they can see how many problems I was able to help with.
